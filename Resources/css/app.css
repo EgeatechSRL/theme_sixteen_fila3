@@ -5,3 +5,7 @@
 [x-cloak] {
     display: none;
 }
+
+.treeselect-list__item--checked .treeselect-list__item-checkbox-container, .treeselect-list__item--partial-checked .treeselect-list__item-checkbox-container {
+    background-color: rgba(217, 119, 6, 1) !important
+}
