@@ -9,25 +9,3 @@
 .treeselect-list__item--checked .treeselect-list__item-checkbox-container, .treeselect-list__item--partial-checked .treeselect-list__item-checkbox-container {
     background-color: rgba(217, 119, 6, 1) !important
 }
-
-/*
-.fi-btn {
-    border-radius: 9999px !important
-}
-
-.fi-btn-group {
-    border-radius: 9999px !important
-}
-
-.fi-fo-wizard-header-step.fi-active {
-    background-color: rgba(217, 119, 6, 0.3)
-}
-
-.fi-fo-wizard-header-step.fi-completed {
-    background-color: rgba(217, 119, 6, 0.6)
-}
-
-.fi-fo-wizard-header-step-separator {
-    color: rgb(255 255 255)
-}
-*/
