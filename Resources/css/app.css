@@ -9,3 +9,13 @@
 .treeselect-list__item--checked .treeselect-list__item-checkbox-container, .treeselect-list__item--partial-checked .treeselect-list__item-checkbox-container {
     background-color: rgba(217, 119, 6, 1) !important;
 }
+
+input:focus {
+    border: 2px solid rgba(217, 119, 6, 1);
+    outline: none;
+}
+
+trix-editor p {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
