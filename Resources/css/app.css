@@ -10,17 +10,7 @@
     background-color: rgba(217, 119, 6, 1) !important;
 }
 
-input:focus {
-    border: 3px solid #d97706;
-    outline: none;
-}
-
 trix-editor p {
   margin-bottom: 0 !important;
   margin-top: 0 !important;
-}
-
-trix-editor:focus {
-    border: 3px solid #d97706;
-    outline: none;
 }
