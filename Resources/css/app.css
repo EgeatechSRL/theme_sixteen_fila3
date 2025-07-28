@@ -14,3 +14,10 @@ trix-editor p {
   margin-bottom: 0 !important;
   margin-top: 0 !important;
 }
+
+.fi-fo-repeater-item {
+    border: 2px solid #9CA3AF; /* blu intenso */
+    border-radius: 0.75rem;
+    padding: 1rem;
+    background-color: #F9FAFB;
+}
