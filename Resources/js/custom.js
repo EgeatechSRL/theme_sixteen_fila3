@@ -134,3 +134,14 @@ function getBanners() {
 function getMarkets() {
 	return [];
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+	window.Livewire.on('redirect-to-copy-url', (payload) => {
+		const url = payload[0].url;
+		if (url) {
+			window.open(url, '_blank');
+		} else {
+			console.warn("URL non trovato nell'evento Livewire.");
+		}
+	});
+});
